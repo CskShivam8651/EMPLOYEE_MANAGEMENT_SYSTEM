@@ -53,9 +53,7 @@ $result = $conn->query($sql);
             text-align: center;
             padding: 14px;
         }
-        .table{
-            text-align:center;
-        }
+       
         .table tbody tr:hover {
             background-color: #fce3ec;
             transition: all 0.3s ease;
